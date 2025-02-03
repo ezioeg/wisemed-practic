@@ -109,8 +109,8 @@ function Card({ options, selectedValue, setSelectedValue }) {
                 </View>
             </View>
 
-            {/* Footer con el Picker */}
-            <View style={styles.pickerContainer}>
+            {/* Footer*/}
+            <View style={styles.cardFooter}>
                 <Text style={styles.pickerTitle}>Tipo de Urgencia</Text>
                 <View style={styles.pickerWrapper}>
                     <Picker
@@ -292,11 +292,6 @@ const styles = StyleSheet.create({
     },
     /* Footer */
     cardFooter: {
-        height: 81,
-        justifyContent: "center",
-        alignItems: "center",
-    },
-    pickerContainer: {
         padding: 20,
     },
     pickerTitle: {
