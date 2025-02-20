@@ -4,10 +4,11 @@ Wisemed Practic is a technical test for React Native with Expo, where you are re
 
 ## Technologies Used
 
-- **React Native**
-- **Expo**
+- **Expo**: 52.0.28 version
+- **React Native**: 0.76.6 version
+- **React**: 18.3.1 version
 - **Fetch**
-- **React Native Picker**: @react-native-picker/picker
+- **Dropdown**: @react-native-picker/picker
 
 ## Setup
 
