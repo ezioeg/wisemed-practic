@@ -8,7 +8,7 @@ Wisemed Practic is a technical test for React Native with Expo, where you are re
 - React v18.3.1
 - React Native v0.76.6
 - Fetch
-- @react-native-picker/picker v2.9.0 (dropdown)
+- @react-native-picker/picker v2.9.0 (Dropdown)
 
 ## Setup
 
