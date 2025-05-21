@@ -25,6 +25,18 @@ Start the app
    ```bash
     npx expo start
    ```
+
+### Run for Android
+
+```bash
+npx expo run:android
+```
+
+### Run for iOS
+
+```bash
+npx expo run:ios
+```
    
 ## Contributions
 
